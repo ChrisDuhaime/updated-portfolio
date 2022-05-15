@@ -6,3 +6,6 @@ On this assignment I replaced the NavBar and project list with Bootstrap.  I als
 
 ![screenshot](./images/Screenshot%202022-05-14%20212511.png)
 
+https://github.com/ChrisDuhaime/updated-portfolio
+
+https://chrisduhaime.github.io/updated-portfolio/
